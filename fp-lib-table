@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ymknlibs-nonfree-logo")(type "KiCad")(uri "${KIPRJMOD}/ymknlibs-nonfree-logo.pretty")(options "")(descr ""))
+)
